@@ -52,7 +52,6 @@ int main() {
         "USA :  Brittney Reese, Athletisme, 1 medaille",
         "CHN :  Shijie Qieyang, Athletisme, 1 medaille",
         "GER :  Robert Harting, Athletisme, 1 medaille",
-
         "RUS :  Anna Chicherova, Athletisme, 1 medaille",
         "BAH :  Michael Mathieu, Athletisme, 1 medaille",
         "USA :  Francena Mccorory, Athletisme, 1 medaille",
@@ -76,7 +75,7 @@ int main() {
     };
 
     // on affiche le titre du programme 
-    printf("\n SOURCE : https://olympics.com/fr/olympic-games/london-2012/athletes \n\n", );
+    printf("\n SOURCE : https://olympics.com/fr/olympic-games/london-2012/athletes \n");
     printf("\n------ CLASSIFICATION DE COUREURS DU JEU OLYMPIQUE 2012 -------- \n");
 
     // on affiche les resultats
