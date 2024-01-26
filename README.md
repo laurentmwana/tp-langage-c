@@ -14,3 +14,7 @@
     </ul>
     <li>Ecrire un algorithme qui calcule le différentiel pour tout nombre compris entre 1 et28 inclus. En dehors de cet intervalle le différentiel est égal au nombre entier. </li>
 </ol>
+
+## EXECUTER
+<p>Pour executer un programme en C, vous devez installer le compilateur <strong>gcc </stron>.</p>
+<p>Ensuite taper la commande <code>gcc nom_fichier -o nom_executable </code></p>
