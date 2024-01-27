@@ -8,7 +8,6 @@ int main() {
     
     // Question 2:  Ecrire un algorithme et un programme en langage C qui permet de classifier 
     // le résultat de 60 coureurs dans les jeux Olympique 2012.
-
     // on recupère la liste des coureurs du JO 2012 
     // (source: https://olympics.com/fr/olympic-games/london-2012/athletes)
     char runners[RUNNER_COUNT][RUNNER_VALUE_LENGHT_MAX] = {
@@ -76,6 +75,7 @@ int main() {
 
     // on affiche le titre du programme 
     printf("\n SOURCE : https://olympics.com/fr/olympic-games/london-2012/athletes \n");
+
     printf("\n------ CLASSIFICATION DE COUREURS DU JEU OLYMPIQUE 2012 -------- \n");
 
     // on affiche les resultats
